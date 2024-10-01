@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tapbar_inmyrooms/static/css/main.b919603f.css",
+    "main.js": "/tapbar_inmyrooms/static/js/main.179af8ba.js",
+    "static/media/background.svg": "/tapbar_inmyrooms/static/media/background.58e6e988ad647970b9b5.svg",
+    "static/media/phone.gif": "/tapbar_inmyrooms/static/media/phone.150a0eac8f39629bd87b.gif",
+    "static/media/share_icon.svg": "/tapbar_inmyrooms/static/media/share_icon.2f0714280b38e7b276d7608c32cfc8bd.svg",
+    "static/media/pageup_ico.svg": "/tapbar_inmyrooms/static/media/pageup_ico.d3074e43f458ec7a24bfff9b12bc95a1.svg",
+    "static/media/comments_ico.svg": "/tapbar_inmyrooms/static/media/comments_ico.409602dadc1305c0badeb41eef9c5efd.svg",
+    "static/media/favorites_ico.svg": "/tapbar_inmyrooms/static/media/favorites_ico.9b05ac5ec6379169ecbad84a65159fbd.svg",
+    "index.html": "/tapbar_inmyrooms/index.html",
+    "main.b919603f.css.map": "/tapbar_inmyrooms/static/css/main.b919603f.css.map",
+    "main.179af8ba.js.map": "/tapbar_inmyrooms/static/js/main.179af8ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b919603f.css",
+    "static/js/main.179af8ba.js"
+  ]
+}
