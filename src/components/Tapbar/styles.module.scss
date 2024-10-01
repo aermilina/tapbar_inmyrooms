@@ -1,0 +1,31 @@
+.tapbarContainer{
+    position: fixed;
+    width: 100%;
+    bottom:0;
+    left:0;
+    right:0;
+    height: 59px;
+    background: #fff;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items:center;
+    transition: transform 0.3s ease;
+}
+
+.tapbarContainer.hidden{
+    transform: translateY(100%);
+}
+.tapbarButton{
+    background: transparent;
+    border: none;
+    color: #000;
+    min-width: 20%;
+    height:100%;
+    img{
+        vertical-align: bottom;
+    }
+    span{
+        margin-left:2px;
+    }
+}
