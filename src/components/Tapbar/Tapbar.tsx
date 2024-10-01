@@ -24,7 +24,7 @@ export default function Tapbar() {
   let timeout: NodeJS.Timeout;
   const handleScroll = () => {
     const currentScroll = window.scrollY;
-    if (currentScroll > lastScroll && currentScroll-lastScroll > 200) {
+    if (currentScroll > lastScroll && currentScroll - lastScroll > 200) {
       setHidden(true);
     } else if (lastScroll - currentScroll > 1) {
       setHidden(false);
